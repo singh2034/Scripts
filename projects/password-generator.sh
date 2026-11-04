@@ -12,5 +12,5 @@ for i in $( seq 1 ); do
 	echo "$password"
 done
 
-echo "$app_name - $password - $pass_length" >> ~/Documents/Study/scripting/password.txt
-chmod 700 ~/Documents/password.txt
+echo "$app_name - $password - $pass_length" >> ~/Documents/Scripts/password.txt
+chmod 700 ~/Documents/Scritps/password.txt
